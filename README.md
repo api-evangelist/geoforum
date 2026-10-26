@@ -65,4 +65,15 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Geoforum is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://geoforum.dk
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://geoforum.dk)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/geoforum/](https://apis.io/providers/geoforum/).
